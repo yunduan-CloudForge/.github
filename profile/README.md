@@ -19,7 +19,7 @@
 ### [⚒️ CloudForge-Home](https://github.com/yunduan-CloudForge/cloudforge-home)
 云锻开源官网项目 提供模板以供使用  
 [![Release](https://img.shields.io/github/v/release/yunduan-CloudForge/cloudforge-home)](https://github.com/yunduan-CloudForge/cloudforge-home/releases)
-[![GitHub Stars](https://img.shields.io/github/stars/yunduan-CloudForge/cloudforge-home)](https://github.com/yunduan-CloudForge/cloudforge-home)
+[![GitHub Stars](https://img.shields.io/github/stars/yunduan-CloudForge/cloudforge-home)](https://github.com/yunduan-CloudForge/cloudforge-home/stargazers)
 
 ## 🤝 参与贡献
 欢迎通过以下方式参与：
