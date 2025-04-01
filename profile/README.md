@@ -41,7 +41,7 @@ cd cloudforge-home && make setup-environment
 
 ## 🌐 社区生态
 - 🏢 官网门户：https://www.yunforge.xyz
-- 📚 技术文档：https://docs.yunforge.xyz
+- 📚 技术文档：https://wiki.yunforge.xyz
 - 💬 Discord 社区：https://discord.gg/nZXcQGauR6
 - 🐦 社交媒体：[CloudForge-official@yunforge.xyz](mailto:CloudForge-official@yunforge.xyz)
 
