@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunduan-CloudForge) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunduan-CloudForge) ![GitHub Streak](https://streak-stats.demolab.com/?user=yunduan-CloudForge)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yunduan-CloudForge)
+
 <!--
 
 **Here are some ideas to get you started:**
