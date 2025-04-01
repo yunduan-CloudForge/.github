@@ -37,8 +37,8 @@ cd cloudforge-home && make setup-environment
 ## 🌐 社区生态
 - 🏢 官网门户：https://www.yunforge.xyz
 - 📚 技术文档：https://docs.yunforge.xyz
-- 💬 Discord 社区：https://discord.gg/your-invite-link
-- 🐦 社交媒体：[@CloudForgeOSS](https://twitter.com/yourhandle)
+- 💬 Discord 社区：https://discord.gg/nZXcQGauR6
+- 🐦 社交媒体：[CloudForge-official@yunforge.xyz](mailto:CloudForge-official@yunforge.xyz)
 
 ## 📜 开源协议
 核心项目采用 [Apache 2.0](LICENSE)，部分工具链组件使用 MIT 协议，详见各项目声明。
