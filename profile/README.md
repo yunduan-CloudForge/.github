@@ -21,6 +21,11 @@
 [![Release](https://img.shields.io/github/v/release/yunduan-CloudForge/cloudforge-home)](https://github.com/yunduan-CloudForge/cloudforge-home/releases)
 [![GitHub Stars](https://img.shields.io/github/stars/yunduan-CloudForge/cloudforge-home)](https://github.com/yunduan-CloudForge/cloudforge-home/stargazers)
 
+### [⚒️ CloudForge-Home](https://github.com/yunduan-CloudForge/cloudforge-wiki)
+云锻开源Wiki项目 提供模板以供使用  
+[![Release](https://img.shields.io/github/v/release/yunduan-CloudForge/cloudforge-wiki)](https://github.com/yunduan-CloudForge/cloudforge-wiki/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/yunduan-CloudForge/cloudforge-wiki)](https://github.com/yunduan-CloudForge/cloudforge-wiki/stargazers)
+
 ## 🤝 参与贡献
 欢迎通过以下方式参与：
 1. **代码贡献**：在 [Issues](https://github.com/yunduan-CloudForge/cloudforge-home/issues) 认领任务
