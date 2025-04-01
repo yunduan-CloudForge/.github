@@ -17,20 +17,9 @@
 ## 🛠️ 核心项目
 
 ### [⚒️ CloudForge-Home](https://github.com/yunduan-CloudForge/cloudforge-home)
-云原生基础设施管理中枢，支持多云资源统一编排  
+云锻开源官网项目 提供模板以供使用  
 [![Release](https://img.shields.io/github/v/release/yunduan-CloudForge/cloudforge-home)](https://github.com/yunduan-CloudForge/cloudforge-home/releases)
 [![CI Status](https://github.com/yunduan-CloudForge/cloudforge-home/actions/workflows/ci.yml/badge.svg)](https://github.com/yunduan-CloudForge/cloudforge-home/actions)
-
-### [🔗 CloudForge-Orchestrator](https://github.com/yunduan-CloudForge/cloudforge-orchestrator)
-分布式任务调度引擎，可视化工作流设计器  
-[![Go Report Card](https://goreportcard.com/badge/github.com/yunduan-CloudForge/cloudforge-orchestrator)](https://goreportcard.com/report/github.com/yunduan-CloudForge/cloudforge-orchestrator)
-[![Documentation](https://img.shields.io/badge/docs-Online-blue)](https://www.yunforge.xyz/docs/orchestrator)
-
-### [🧰 CloudForge-Toolkit](https://github.com/yunduan-CloudForge/cloudforge-toolkit)
-开发者效能工具集：
-- 多云 CLI 管理工具
-- 智能日志分析引擎
-- 自动化配置生成器 
 
 ## 🤝 参与贡献
 欢迎通过以下方式参与：
