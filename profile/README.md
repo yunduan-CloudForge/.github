@@ -3,7 +3,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Discord](https://img.shields.io/discord/your-discord-channel-id)](https://discord.gg/your-invite-link)
+[![Discord](https://img.shields.io/discord/your-discord-channel-id)](https://discord.com/invite/nZXcQGauR6)
 
 > **锻造云端利器，共建开源生态**  
 > 我们致力于构建云原生领域的开源工具链，提供可落地的生产级解决方案。
