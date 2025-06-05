@@ -30,8 +30,8 @@
 
 ### [⚒️ GMI-精神疾病指南](https://github.com/yunduan-CloudForge/GMI)
 云锻开源公益项目 GMI-精神疾病指南  
-[![Release](https://img.shields.io/github/v/release/yunduan-CloudForge/GMI)]
-[![GitHub Stars](https://img.shields.io/github/stars/yunduan-CloudForge/GMI)]
+[![Release](https://img.shields.io/github/v/release/yunduan-CloudForge/GMI)](https://github.com/yunduan-CloudForge/GMI)
+[![GitHub Stars](https://img.shields.io/github/stars/yunduan-CloudForge/GMI)](https://github.com/yunduan-CloudForge/GMI)
 
 ## 🤝 参与贡献
 欢迎通过以下方式参与：
