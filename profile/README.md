@@ -1,4 +1,3 @@
-# 创始人又又又又因病暂休了 云锻打赢复活赛了
 # 大家好！这里是云锻开源团队|CloudForge-OSSofficial
 # ☁️ 云锻开源团队 | CloudForge OSS Team
 
